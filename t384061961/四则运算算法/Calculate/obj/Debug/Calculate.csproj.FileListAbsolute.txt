@@ -1,0 +1,13 @@
+E:\WorkSpace\C#\四则运算算法\Calculate\bin\Debug\Calculate.exe.config
+E:\WorkSpace\C#\四则运算算法\Calculate\bin\Debug\Calculate.exe
+E:\WorkSpace\C#\四则运算算法\Calculate\bin\Debug\Calculate.pdb
+E:\WorkSpace\C#\四则运算算法\Calculate\obj\Debug\Calculate.csprojResolveAssemblyReference.cache
+E:\WorkSpace\C#\四则运算算法\Calculate\obj\Debug\Calculate.exe
+E:\WorkSpace\C#\四则运算算法\Calculate\obj\Debug\Calculate.pdb
+C:\Users\tyx666\Desktop\软件工程原理及方法\四则运算算法\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\tyx666\Desktop\软件工程原理及方法\四则运算算法\Calculate\bin\Debug\Calculate.exe
+C:\Users\tyx666\Desktop\软件工程原理及方法\四则运算算法\Calculate\bin\Debug\Calculate.pdb
+C:\Users\tyx666\Desktop\软件工程原理及方法\四则运算算法\Calculate\obj\Debug\Calculate.csprojAssemblyReference.cache
+C:\Users\tyx666\Desktop\软件工程原理及方法\四则运算算法\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\tyx666\Desktop\软件工程原理及方法\四则运算算法\Calculate\obj\Debug\Calculate.exe
+C:\Users\tyx666\Desktop\软件工程原理及方法\四则运算算法\Calculate\obj\Debug\Calculate.pdb
